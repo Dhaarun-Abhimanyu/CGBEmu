@@ -1,0 +1,8 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define HAVE_STDLIB_H @HAVE_STDLIB_H@
+#define INTMAX_T @INTMAX_T@
+#define UINTMAX_T @UINTMAX_T@
+
+#endif /* CONFIG_H */

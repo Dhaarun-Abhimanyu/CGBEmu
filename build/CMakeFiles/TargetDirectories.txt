@@ -1,0 +1,3 @@
+/mnt/e/desktop/vsc_projects/CGBEmu/build/CMakeFiles/CGBEmu.dir
+/mnt/e/desktop/vsc_projects/CGBEmu/build/CMakeFiles/edit_cache.dir
+/mnt/e/desktop/vsc_projects/CGBEmu/build/CMakeFiles/rebuild_cache.dir
